@@ -1,0 +1,3 @@
+Hello,
+This is my First Read and Write Python Program.
+I hope I get it right.
